@@ -3,6 +3,7 @@ __pycache__/
 *.py[codz]
 *$py.class
 *.jython_cache/
+*.wav
 
 # C extensions
 *.so
